@@ -1,4 +1,4 @@
-// mpiexec -n 4 ./test.exe 4
+// mpiexec -n 4 ./transpose.exe 4
 
 #include <stdio.h>
 #include <stdlib.h>
