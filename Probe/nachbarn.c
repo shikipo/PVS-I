@@ -1,3 +1,5 @@
+// mpiexec -n 16 ./nachbarn.exe
+
 #include <mpi.h>
 #include <assert.h>
 #include <stdio.h>
