@@ -1,5 +1,5 @@
 // mpiexec -n 4 ./transpose.exe 4
-
+// ws2021
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
