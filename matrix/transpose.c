@@ -1,3 +1,5 @@
+// mpiexec -n 4 ./test.exe 4
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <mpi.h>
